@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "img": "news_01.jpg",
+    "title": "homeCompNews_text.title_one",
+    "text": "homeCompNews_text.text_one"
+  },
+  {
+    "id": 2,
+    "img": "news_02.jpg",
+    "title": "homeCompNews_text.title_two",
+    "text": "homeCompNews_text.text_two"
+  },
+  {
+    "id": 3,
+    "img": "news_03.jpg",
+    "title": "homeCompNews_text.title_three",
+    "text": "homeCompNews_text.text_three"
+  },
+  {
+    "id": 4,
+    "img": "news_04.jpg",
+    "title": "homeCompNews_text.title_for",
+    "text": "homeCompNews_text.text_for"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
